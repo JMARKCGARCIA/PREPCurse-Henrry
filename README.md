@@ -1,2 +1,1 @@
-# PREPCurse-Henrry
-Repositorio de prueba Henrry modulo 2
+Este proyecto es una pruba de como clonar un repositorio en mi escritorio
